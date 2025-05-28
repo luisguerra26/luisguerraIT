@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luis! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Helpdesk Technician</a>, <a href="https://www.youtube.com/c/joshmadakor">Gamer</a></h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 IT Projects</h2>
 
   - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Certification</h2>
